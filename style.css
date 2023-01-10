@@ -1,0 +1,39 @@
+.LoginBox {
+    border: 3px solid white;
+    display: grid;
+    justify-content: center;
+    width: 15em;
+    height: 15em;
+    margin: auto;
+
+}
+header {
+    color: red;
+    font-family: sans-serif;
+    position: sticky;
+    
+}
+.Sign-In {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+body {
+    color: white;
+
+}
+footer {
+    position: absolute;
+    bottom: 1px;
+    
+}
+.Questions {
+    font-family: sans-serif;
+    color: red;
+}
